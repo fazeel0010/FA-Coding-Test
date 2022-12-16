@@ -27,3 +27,9 @@ The csharp folder contains a solution file that has two projects within it, one 
 Work through as many questions as possible, making sure to run the unit tests attached.
 
 Please remember that some unit tests require further work aswell in order to be acceptable.
+
+
+### My Result
+
+![image](https://user-images.githubusercontent.com/22843489/208022847-ad5e74bd-0386-48e2-a1d2-19a9143bf3e0.png)
+
