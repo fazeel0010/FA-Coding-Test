@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QYgWlVvPAh0j0rc6embCNGVuhZeJSDIZm58tbAyClcnJS6enjlKRmEIDQlHc/h/aL41SCQUtASUudJ4Ij7clA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive - AKSiQ\\Desktop\\Technical Test\\FA-Coding-Test\\csharp\\recordsure.interview\\recordsure.interview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
